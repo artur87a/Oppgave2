@@ -1,0 +1,11 @@
+::first-letter{
+    color: red;
+}
+
+::first-line{
+    word-spacing: 1em;
+    text-align: center;
+    justify-content: center;
+    
+}
+
